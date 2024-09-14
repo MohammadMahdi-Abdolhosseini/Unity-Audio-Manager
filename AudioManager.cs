@@ -180,15 +180,5 @@ public class AudioManager : MonoBehaviour
 
         audioSource.volume = musicVolume;
     }
-
-    /*
-    =-=-=-=-=-=-=-=Music=-=-=-=-=-=-=-=
-    CubicTangram: 002 zemzeme aramesh
-    HeapSort: 022 oghianos aramesh
-    LightTap: 012 zire baran
-    MasterMind: 016 khorshid taban
-    MemoryMatch: 018 be setareha negah kon
-    WaterPipe: 009 tavalodi dobare
-    */
-
+    
 }
